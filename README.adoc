@@ -8,8 +8,13 @@ A simple soundboard.
 
 == *Immediate plans*:
 
-* [ ] Tkinter interface.
-* [ ] VLC for audio playback.
-* [ ] Auto load sound files from boards.
+* [x] Tkinter interface.
+* [x] VLC for audio playback.
+* [x] Auto load sound files from boards.
 * [ ] Multi-board support.
-* [ ] Sound playback.
+** [x] Multiple board sources
+** [ ] Only show one board's sounds at a time.
+* [x] Sound playback.
+* [ ] Fix scaling.
+** [ ] Boards arranged vertically down left side.
+** [ ] Sounds arranged in grid on right side.
