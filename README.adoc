@@ -1,0 +1,15 @@
+:source-highlighter: highlight.js
+:highlightjs-languages: python, rust
+:toc: auto
+
+= *CutieBoard*
+
+A simple soundboard.
+
+== *Immediate plans*:
+
+* [ ] Tkinter interface.
+* [ ] VLC for audio playback.
+* [ ] Auto load sound files from boards.
+* [ ] Multi-board support.
+* [ ] Sound playback.
