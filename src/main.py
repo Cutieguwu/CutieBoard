@@ -5,7 +5,7 @@
 # -*- coding: utf-8 -*-
 # @Title: CutieBoard
 # @Author: Cutieguwu | Olivia Brooks
-# @Description: Sound Board
+# @Description: Soundboard
 #
 # @Script: main.py
 # @Date Created: 18 Dec, 2024
